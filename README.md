@@ -1,15 +1,9 @@
-# 386bsd
+# BNU-BSD
 
-386bsd - First open source BSD operating system, by [William](https://www.linkedin.com/in/williamjolitz/) and Lynne Jolitz.
+A open-source, 386BSD based BSD distribution aimed for a unique PC operating system experience.
 
-[William Jolitz's 386bsd Notebook](https://386bsd.github.io/)
+BNU-BSD is a operating system based on 386BSD. BNU-BSD stands for "BasinOS is not UNIX BSD". BNU-BSD aims to be an os that is not bloated or packed with useless features similar to how Windows is but BNU-BSD aims to be a operating system that can run on hardware as old as the 2000s! It doesn't need TPM or any crappy user interface, But rather will have a simple yet unique interface that can run on old hardware. 386-BSD is reliable and secure. Being based on BSD, It is a COMPLETE operating system with its own libraries and drivers and etc. BNU-BSD is built upon the solid foundation of BSD that is reliable and trustworthy. BNU-BSD aims to be "easy peasy, lemon squeezy!". 
 
-All release's are currently inconsistent due to media failures and composing from undated partial copies as I'm able to extract them from drives, tapes, and floppies.
+BNU-BSD is for everyone! Beginners, Advanced users, etc.
 
-Basically, working through boxes of decades old stuff/notes. 0.1/1.0 are self-compiling on small memory systems (<32MB), and virtual machines like QEMU and Virtual Box.
-
-So the branches are idiosyncratic WRT time, and 0.1/1.0 are the most useful at the moment (2.0's got the most lapses at the moment).
-
-After it all gets sorted out, look for ".x" branch which will deal with the "going forward" stuff (from a second box!). 
-
-William Jolitz.
+BNU-BSD is currently in alpha stage and is currently a work in progress. It was forked from 386BSD.
