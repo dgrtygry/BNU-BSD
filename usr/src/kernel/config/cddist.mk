@@ -1,8 +1,8 @@
 #
-# 386BSD operating system kernel for CD release & testing
+# bnubsd operating system kernel for CD release & testing
 #
 
-KERNEL=	386bsd
+KERNEL=	bnubsd
 IDENT+= -DTCP_COMPAT_42
 #PARAM=	-DTIMEZONE=480 -DDST=1 -DMAXUSERS=4
 
