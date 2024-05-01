@@ -54,9 +54,9 @@ static char *kern_config =
 
 
 char	copyright1[] =
-"386BSD Release 1.0 by William & Lynne Jolitz.";
+"bnubsd Release 1.0 by dgrytygry.";
 char	copyright2[] =
-"Copyright (c) 1989-1994 William F. Jolitz. All rights reserved.\n";
+"Copyright (c) 2024-beyond.\n";
 
 /* kernel starts out with a single, statically created process */
 int	nprocs = 1;
