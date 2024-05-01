@@ -1,6 +1,6 @@
 #
-# This make file incorporates the generic 386BSD kernel program makefile,
-# kernel.mk. Copyright (C) 1990-1994 W. Jolitz, All Rights Reserved.
+# This make file incorporates the generic bnubsd kernel program makefile,
+# kernel.mk. 
 # $Id:$
 #
 
@@ -103,7 +103,7 @@ ${KERNEL}: Makefile symbols.sort ${FIRSTOBJ} ${OBJS} isym.o
 	nroff -mandoc ${.IMPSRC} > ${.TARGET}
 
 clean:
-	rm -f eddep 386bsd* tags ${OBJS} errs linterrs makelinks
+	rm -f eddep bnubsd* tags ${OBJS} errs linterrs makelinks
 
 depend: ${DEPEND}
 	cat ${DEPEND} >> .depend
