@@ -1,8 +1,8 @@
 #
-# 386BSD operating system kernel for final release
+# bnubsd operating system kernel for final release
 #
 
-KERNEL=	386bsd
+KERNEL=	bnubsd
 IDENT+= -DTCP_COMPAT_42
 
 # standard kernel with INTERNET protocols
