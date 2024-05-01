@@ -1,8 +1,8 @@
 #
-# 386BSD operating system kernel for all of wfj's local hosts.
+# bnubsd operating system kernel for all of wfj's local hosts.
 #
 
-KERNEL=	386bsd
+KERNEL=	bnubsd
 IDENT=	-Di486
 
 # standard kernel with INTERNET protocols
