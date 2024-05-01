@@ -1,5 +1,5 @@
 /*
- * Adaptec 1542 SCSI driver for 386bsd
+ * Adaptec 1542 SCSI driver for bnubsd
  *
  * $Id: as.c,v 1.1 95/01/21 23:00:53 bill Exp Locker: bill $
  *
