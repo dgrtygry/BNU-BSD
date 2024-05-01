@@ -1,5 +1,5 @@
 /*
- * Adaptec 1542 SCSI driver for 386bsd
+ * Adaptec 1542 SCSI driver for bnubsd
  *
  * $Id$
  *
