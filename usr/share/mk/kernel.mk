@@ -1,6 +1,6 @@
 # $Id: $
 #
-# This make file incorporates the generic 386BSD kernel program makefile,
+# This make file incorporates the generic BNU-BSD kernel program makefile,
 # kernel.mk. Copyright (C) 1990-1994 W. Jolitz, All Rights Reserved.
 # $Id:$
 #
