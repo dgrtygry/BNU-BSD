@@ -1,8 +1,8 @@
 #
-# 386BSD operating system kernel for network host "odysseus".
+# bnubsd operating system kernel for network host "odysseus".
 #
 
-KERNEL=	386bsd
+KERNEL=	bnubsd
 IDENT=	-Di486 -DTCP_COMPAT_42 -DDIAGNOSTIC -DINET
 #PARAM=	-DTIMEZONE=480 -DDST=1 -DMAXUSERS=4
 
