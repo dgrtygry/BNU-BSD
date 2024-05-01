@@ -1,8 +1,8 @@
 #
-# 386BSD operating system kernel for argo server
+# bnubsd operating system kernel for argo server
 #
 
-KERNEL=	386bsd
+KERNEL=	bnubsd
 IDENT+= -Di486 -DTCP_COMPAT_42 -DGATEWAY
 
 # standard kernel with INTERNET protocols
