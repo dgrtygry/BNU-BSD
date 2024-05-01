@@ -1,8 +1,8 @@
 #
-# "Small" 386BSD operating system kernel for testing bootstraps.
+# "Small" bnubsd operating system kernel for testing bootstraps.
 #
 
-KERNEL=	386bsd
+KERNEL=	bnubsd
 HOST=	small
 IDENT=	-DODYSSEUS -Di486 -DSHMMAXPGS=100 -DTCP_COMPAT_42 -D__NO_INLINES
 PARAM=	-DTIMEZONE=480 -DDST=1 -DMAXUSERS=4
