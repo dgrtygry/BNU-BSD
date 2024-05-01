@@ -1,6 +1,6 @@
 # $Id: $
 
-386bsd=		We run 386bsd.
+bnubsd=		We run bnubsd.
 unix=		It looks like UNIX.
 
 .SUFFIXES: .out .a .ln .o .c .F .f .e .r .y .l .s .cl .p .h 
