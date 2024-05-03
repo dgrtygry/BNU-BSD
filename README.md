@@ -7,3 +7,7 @@ BNU-BSD is a operating system based on 386BSD. BNU-BSD stands for "BasinOS is no
 BNU-BSD is for everyone! Beginners, Advanced users, etc.
 
 BNU-BSD is currently in alpha stage and is currently a work in progress. It was forked from 386BSD.
+
+To make a ISO of BNU-BSD, You can download our ISO builder script! It simplifies compiling of source code for you.
+
+You can get it here https://github.com/dgrtygry/BNU-BSD-iso-builder/releases/tag/fin
