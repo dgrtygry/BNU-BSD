@@ -8,6 +8,6 @@ BNU-BSD is for everyone! Beginners, Advanced users, etc.
 
 BNU-BSD is currently in development and is currently a work in progress. It was forked from 386BSD.
 
-To make a ISO of BNU-BSD, You can download our ISO builder script! It simplifies compiling of source code for you.
+To make a ISO of BNU-BSD, You can download our ISO builder script! It simplifies compiling of source code into a bootable image for you.
 
 You can get it here https://github.com/dgrtygry/BNU-BSD-iso-builder/releases/tag/fin
